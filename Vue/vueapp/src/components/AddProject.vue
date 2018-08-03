@@ -28,7 +28,7 @@
 
             <div class="form-group">
               <label for="EndDate">Data zakończenia projektu</label>
-              <input type="EndDate" class="form-control" id="EndDate" placeholder="Data zakończenia projektut">
+              <input type="EndDate" class="form-control" id="EndDate" placeholder="Data zakończenia projektu">
             </div>
 
             <button type="submit" class="btn btn-primary">Dodaj</button>

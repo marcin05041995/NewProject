@@ -6,7 +6,7 @@
 
       <div class="col-lg-4"></div>
         <div class="col-lg-4">
-            <form>
+            <form method="post">
                 <div class="form-group">
                   <label for="Name">Imie</label>
                   <input type="Name" class="form-control" id="Name" placeholder="Imie">
